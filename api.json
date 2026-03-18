@@ -1,14 +1,14 @@
 {
   "app_info": {
     "app_name": "最帅名片",
-    "version": "1.3.0",
-    "min_version": "1.2.0",
+    "version": "1.2.9",
+    "min_version": "1.2.4",
     "update_time": "2026-03-18",
     "author": "开发者",
     "contact": "QQ群: 123456789",
     "manual": "使用说明：选择图片，点击替换即可",
     "allInfo": "1.选择本地图片 2.点击替换按钮 3.等待替换完成",
-    "appStatus": 4,
+    "appStatus": 2,
     "update_url": "http://example.com/update"
   },
   "hbApp_info": {
@@ -20,10 +20,10 @@
     "contact": "QQ群: 123456789",
     "manual": "海报使用说明：选择9:14比例的图片",
     "allInfo": "海报替换工具，支持9:14比例的海图替换",
-    "appStatus": 4
+    "appStatus": 2
   },
-  "update_url": "http://example.com/update",
-  "appStatus": 4,
+  "update_url": "",
+  "appStatus": 2,
   "tips": "提示：有新版本可用，建议更新",
   "group_notice": [
     {
